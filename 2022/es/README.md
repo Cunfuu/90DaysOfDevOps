@@ -1,14 +1,38 @@
 # 90DaysOfDevOps
 
 <p align="center">
- <img src="../logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+ <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-Versión en Castellano | [English Version](../README.md) | [中文版本](zh_cn/README.md) | [繁體中文版本](zh_tw/README.md)| [日本語版](ja/README.md) | [Wersja Polska](pl/README.md) | [Tiếng Việt](vi/README.md)
+Versión en Castellano | [English Version](../README.md) | [中文版本](../zh_cn/README.md) | [繁體中文版本](../zh_tw/README.md)| [日本語版](../ja/README.md) | [Wersja Polska](../pl/README.md) | [Tiếng Việt](../vi/README.md)
 
-Este repositorio es un viaje para conseguir conocer los conceptos básicos de la filosofía "DevOps". La idea es hacer un viaje de 90 días, por ejemplo, si comienzas un 1 de enero podrías terminar el recorrido el 31 de marzo. 🚀
+Índice
+- [90DaysOfDevOps](#90daysofdevops)
+  - [Descripción](#descripción)
+  - [Documentación del viaje de 90DaysOfDevOps](#documentación-del-viaje-de-90daysofdevops)
+    - [¿Qué es y por qué usamos DevOps?](#qué-es-y-por-qué-usamos-devops)
+    - [Aprender un lenguaje de programación](#aprender-un-lenguaje-de-programación)
+    - [Conociendo lo básico de Linux](#conociendo-lo-básico-de-linux)
+    - [Entender Networking](#entender-networking)
+    - [Quédate con solo un Cloud Provider](#quédate-con-solo-un-cloud-provider)
+    - [Usa Git de forma efectiva](#usa-git-de-forma-efectiva)
+    - [Contenedores](#contenedores)
+    - [Kubernetes](#kubernetes)
+    - [Aprender la infraestructura como código (IaC)](#aprender-la-infraestructura-como-código-iac)
+    - [Automatizar la gestión de la configuración](#automatizar-la-gestión-de-la-configuración)
+    - [Crear CI/CD Pipelines](#crear-cicd-pipelines)
+    - [Monitorización, gestión de logs y visualización de datos.](#monitorización-gestión-de-logs-y-visualización-de-datos)
+    - [Almacenar y proteger tus datos](#almacenar-y-proteger-tus-datos)
+  - [Licencia](#licencia)
+  - [Star History](#star-history)
+
+
+## Descripción
+
+Este repositorio es la documentación de un viaje para conseguir conocer los conceptos básicos de la filosofía "DevOps". Comenzó el 1 de enero de 2022 y la idea es hacer un viaje de 90 días, por ejemplo, si comienzas un 1 de enero podrías terminar el recorrido el 31 de marzo. 🚀 
 
 [Phileas Fogg](https://es.wikipedia.org/wiki/Phileas_Fogg) tardó menos en dar la vuelta al mundo.
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mapa_Vuelta_al_Mundo_en_80_d%C3%ADas_de_Verne.jpg/780px-Mapa_Vuelta_al_Mundo_en_80_d%C3%ADas_de_Verne.jpg)
 
 La razón de documentar cada práctica es para que otros puedan aprovecharla mejorando sus conocimientos y recursos.
@@ -25,18 +49,18 @@ La forma más rápida para ponerse en contacto con el autor es a través de su T
 
 Y también puedes aportar, darle a fav o abrir incidencias en el [repo original](https://github.com/MichaelCade/90DaysOfDevOps).
 
-Por otra parte, también puedes agradecer a [Manu](https://github.com/manuelver), la traducción al castellano con bitcoins: 
+El [documento original](https://github.com/MichaelCade/90DaysOfDevOps) es en inglés y la traducción se realizo a finales del año del 2022. También puedes agradecer a [Manu](https://github.com/manuelver) la traducción al castellano con bitcoins: 
 ```bitcoin
 1QESjZDPxWtZ9sj3v5tvgfFn3ks13AxWVZ
 ```
 
 ![bitcoin](https://vergaracarmona.es/wp-content/uploads/2022/05/qrcode.png) 
 
-Le encantan las mariscadas.
+A él le encantan las mariscadas.
 
 Empecemos con lo que vas a poder ver en estos 90 días.
 
-## Progreso
+## Documentación del viaje de 90DaysOfDevOps
 
 - [✔️] ♾️ 1 > [Introducción](Days/day01.md)
 
@@ -76,7 +100,7 @@ Empecemos con lo que vas a poder ver en estos 90 días.
 - [✔️] 🌐 24 > [Automatización de la red](Days/day24.md)
 - [✔️] 🌐 25 > [Python para la automatización de la red](Days/day25.md)
 - [✔️] 🌐 26 > [Construir nuestro Lab](Days/day26.md)
-- [✔️] 🌐 27 > [Ponerse a trabajar con Python y la red](Days/day27.md)
+- [✔️] 🌐 27 > [Manos a la obra con Python y Redes](Days/day27.md)
 
 ### Quédate con solo un Cloud Provider
 
